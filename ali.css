@@ -1,0 +1,48 @@
+h1{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 50px;
+    border-radius: 4px;
+    font-size: 36px;
+    font-family: trav;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #7B5037;
+
+}
+
+li{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+
+div{
+    text-align: center;
+}
+
+video{
+    margin-right: 50px;
+    width: 250px;
+    height: 250px;
+    border: 3px solid black;
+
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border: 3px solid black;
+}
+
+
+@font-face {
+    font-family: trav;
+    src: url(Gemstone.ttf);
+}

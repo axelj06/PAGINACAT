@@ -1,0 +1,84 @@
+body{
+    background-color: #7B5037;
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+}
+
+
+
+header{
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: #C1B59F;
+    font-size: 2em;
+    align-items: center;
+    height: 200px;
+}
+
+h1{
+    font-family: trav;
+    color: black;
+    letter-spacing: 2px;
+}
+
+#logo{
+    width: 200px;
+    height: 200px;
+    margin-right: 90px;
+}
+
+.piso{
+    width: 150px;
+    height: 150px;
+}
+
+footer{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: #000;
+    font-size: 18px;
+    
+    
+}
+
+nav{
+    background-color: #000;
+    text-align: center;
+}
+
+a{
+    font-size: 24px;
+    text-decoration: none;
+    color: white;
+    margin-right:15px ;
+}
+
+
+
+div{
+    display: flex;
+}
+
+.fr{
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: #969286;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+
+
+@font-face {
+    font-family: trav;
+    src: url(Gemstone.ttf);
+}
